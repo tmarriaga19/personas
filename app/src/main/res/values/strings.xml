@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Personas</string>
+    <string name="titulo">Registrar</string>
 </resources>
